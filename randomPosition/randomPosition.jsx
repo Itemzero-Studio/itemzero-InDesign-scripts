@@ -2,7 +2,7 @@
  RANDOM POSITION
  version 1.1
  ---
- InDesign script positions objects randomly, within an input range.
+ InDesign script that positions objects randomly, within an input range.
  ---
  Script by Itemzero.com
  --- */
