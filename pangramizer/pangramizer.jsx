@@ -1,4 +1,13 @@
-﻿function insertText() {    
+/* ---
+ PANGRAMIZER
+ version 1.0
+ ---
+ InDesign script that prints random pangrams.
+ ---
+ Script by Itemzero.com
+ --- */
+
+function insertText() {    
     var pangrams = [
         ['Zəfər, jaketini də papağını da götür, bu axşam hava çox soyuq olacaq.', 'Azeri'],
         ['Yec’hed mat Jakez ! Skarzhit ar gwerennoù-mañ, kavet e vo gwin betek fin ho puhez.', 'Breton'],
