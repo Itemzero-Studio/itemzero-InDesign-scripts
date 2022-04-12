@@ -1,7 +1,7 @@
 # InDesign-scripts
 ## Itemzero's scripts for InDesign
 
-A collection of InDesign scripts, collateral from our work at [0. itemzero](https://itemzero.com).
+A collection of InDesign scripts, collateral from our work in book production at [0. itemzero](https://itemzero.com).
 
 ## Scripts
 
